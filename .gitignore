@@ -3,5 +3,4 @@
 **/node_modules
 /_*
 /dist
-package-lock.json
 sftp-config.json
