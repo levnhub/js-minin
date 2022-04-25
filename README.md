@@ -8,9 +8,17 @@ prototypes
 
 context, add common methods to prototype
 
-## jsvascript-3
+## javascript-3
 
 closures, context closure test
+
+## javascript-4
+
+event loop, promise, promise all, promise race
+
+## javascript-5
+
+advanced objects, getters, setters, prototype iteration properties
 
 ## redux-saga
 
