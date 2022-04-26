@@ -20,6 +20,18 @@ event loop, promise, promise all, promise race
 
 advanced objects, getters, setters, prototype iteration properties
 
+## javascript-6
+
+classes, classes in practice, classes with getters & setters
+
+## javascript-7
+
+simple delay method, async/await, promise to async/await, try/catch/finnaly
+
+## javascript-8
+
+proxy, proxy for objects, proxy for functions, proxy for classes
+
 ## redux-saga
 
 reducers, actions, compose, middleware, thunk, saga, single store, several stores, generator
