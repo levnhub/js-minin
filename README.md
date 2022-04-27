@@ -32,6 +32,14 @@ simple delay method, async/await, promise to async/await, try/catch/finnaly
 
 proxy, proxy for objects, proxy for functions, proxy for classes
 
+## javascript-9
+
+optimize array, add custom methods and rewrite native by proxy
+
+## javascript-10
+
+generator, iterator (custom iterator), yield, for...of loop, Symbol.iterator
+
 ## redux-saga
 
 reducers, actions, compose, middleware, thunk, saga, single store, several stores, generator
