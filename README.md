@@ -40,6 +40,12 @@ optimize array, add custom methods and rewrite native by proxy
 
 generator, iterator (custom iterator), yield, for...of loop, Symbol.iterator
 
+## javascript-11
+
+array methods, loops, forEach, map, filter, find, findIndex, methods chain, one line loops
+
+## javascript-12
+
 ## redux-saga
 
 reducers, actions, compose, middleware, thunk, saga, single store, several stores, generator
